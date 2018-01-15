@@ -24,6 +24,8 @@ If you have forgotten your password, you can reset it by clicking **I
 forgot my password** on the sign in screen, or contact your System Admin
 for help resetting your password.
 
+Add image
+
 GitLab Single Sign-On (SSO)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
