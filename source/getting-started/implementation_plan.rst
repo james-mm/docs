@@ -169,6 +169,7 @@ Install and configure Mattermost and its component software (MySQL or PostgreSQL
 **Reference**: https://docs.mattermost.com/guides/administrator.html#installing-mattermost
 
 Install in High Availability (E20): https://docs.mattermost.com/deployment/cluster.html 
+
 SMTP email setup: https://docs.mattermost.com/install/smtp-email-setup.html
 
 3.3.5 Test Deployment
