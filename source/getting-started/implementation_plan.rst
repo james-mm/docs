@@ -24,6 +24,8 @@ The purpose of this Implementation Plan is to:
  - Outline the process for implementing the solution (key personnel, tasks, schedule, etc.);
 
  - Identify support required during the implementation process.
+ 
+ Note: This document is available for `download <https://github.com/mattermost/docs/raw/master/source/getting-started/mattermost_implementation_plan.docx>`_ so you can build out and customize your Implementation Plan:
 
 2 System Overview
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
